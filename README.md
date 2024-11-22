@@ -1,12 +1,14 @@
-Have you ever played the Hangman game? This script will help you win.
+## Have you ever played the Hangman game?
+	
+	This script will help you win.
 
-How to use the script?
+## How to use this script?
 
 	You need list of words, which is provided on index.json
 	The current contents of index.json are a list of spanish words,
 	but you can replace it with a list on your language.
 	
-	Suppose we want to predict wich word, or wich letters to
+	Suppose we want to predict wich word, or wich letter to
 	say next, given that we know the following: __n_ia__a
 	
 	To do that we run:
@@ -20,7 +22,7 @@ How to use the script?
 	
 	Good luck.
 	
-Legal notice about index.json:
+## Legal notice about index.json:
 
 	The index.json file used is copied from https://github.com/words/an-array-of-spanish-words
 	
@@ -38,5 +40,3 @@ Legal notice about index.json:
 
 	The above copyright notice and this permission notice shall be
 	included in all copies or substantial portions of the Software.
-	
-	
